@@ -54,7 +54,7 @@ export default async function handler(req, res) {
   } catch (error) {
     console.error('Form handler error:', error);
     return res.status(500).json({
-      error: 'Something went wrong. Please call us on 0191 000 0000 instead.'
+      error: 'Something went wrong. Please try again in a moment.'
     });
   }
 }
