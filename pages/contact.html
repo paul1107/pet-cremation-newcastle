@@ -4,10 +4,45 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Contact Newcastle Pet Cremation | Arrange a Farewell</title>
-  <meta name="description" content="Contact Newcastle Pet Cremation Services to arrange a dignified farewell for your companion. Call us, email, or use our form. Collection available across the North East.">
+  <meta name="description" content="Contact Newcastle Pet Cremation Services to arrange a dignified farewell for your companion. Fill in our form and we'll connect you with a trusted local crematorium.">
   <link rel="canonical" href="https://petcremationnewcastle.co.uk/pages/contact.html">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .form-success {
+      background: var(--sage-subtle);
+      border: 1px solid var(--sage);
+      border-radius: 6px;
+      padding: 32px;
+      text-align: center;
+      display: none;
+    }
+    .form-success.visible { display: block; }
+    .form-error {
+      background: #fff0f0;
+      border: 1px solid #c44;
+      color: #a33;
+      padding: 12px 16px;
+      border-radius: 4px;
+      margin-bottom: 16px;
+      display: none;
+      font-family: -apple-system, 'Segoe UI', sans-serif;
+      font-size: 0.9rem;
+    }
+    .form-error.visible { display: block; }
+    .consent-group {
+      display: flex; align-items: flex-start; gap: 10px;
+      font-family: -apple-system, 'Segoe UI', sans-serif;
+      font-size: 0.9rem; color: var(--text-light);
+      margin-bottom: 20px;
+    }
+    .consent-group input[type="checkbox"] {
+      width: auto; margin-top: 3px; flex-shrink: 0;
+      accent-color: var(--sage-dark);
+    }
+    .consent-group a { color: var(--sage-dark); }
+    .form-submit:disabled { opacity: 0.6; cursor: not-allowed; }
+  </style>
 </head>
 <body>
 
@@ -29,78 +64,69 @@
     <div class="breadcrumbs">
       <a href="/">Home</a> &rsaquo; Contact Us
     </div>
-    <h1 style="text-align:center;">Contact Us</h1>
-    <p class="section-subtitle">We're here to guide you gently through every step, 7 days a week.</p>
+    <h1 style="text-align:center;">Get a Personal Quote</h1>
+    <p class="section-subtitle">Tell us about your companion and we'll connect you with a trusted local crematorium — usually within 30 minutes.</p>
 
-    <div class="two-col" style="align-items:start; margin-top: 24px;">
-      <div>
-        <h2>Get in Touch</h2>
-        <p>When you lose a companion, the last thing you need is a complicated process. Call us, email us, or fill in the form — we'll handle everything from there.</p>
+    <div style="max-width: 560px; margin: 0 auto; background: var(--sage-subtle); padding: 40px 32px; border-radius: 6px;">
 
-        <div style="margin: 32px 0;">
-          <h3>Phone</h3>
-          <p style="font-size: 1.3rem; color: var(--sage-dark);">0191 000 0000</p>
-          <p style="color: var(--text-light);">Available 9am–5pm weekdays, 10am–2pm Saturdays. For urgent out-of-hours collection, leave a message and we'll call back within 30 minutes.</p>
-        </div>
+      <div class="form-error" id="form-error"></div>
 
-        <div style="margin: 32px 0;">
-          <h3>Email</h3>
-          <p style="font-size: 1.1rem;">care@petcremationnewcastle.co.uk</p>
-          <p style="color: var(--text-light);">We typically reply within an hour during office hours.</p>
-        </div>
-
-        <div>
-          <h3>Visit Us</h3>
-          <p>Newcastle Pet Cremation Services<br>
-          Newcastle upon Tyne<br>
-          Tyne and Wear</p>
-          <p style="color: var(--text-light);">Full address provided when you book — we're a private facility, not a public-facing premises. You're welcome to bring your companion to us by appointment.</p>
-        </div>
+      <div class="form-success" id="form-success">
+        <div style="font-size: 2rem; margin-bottom: 12px;">✓</div>
+        <h3>Thank You</h3>
+        <p>We've received your details and will connect you with a trusted local crematorium shortly. They'll call you back — usually within 30 minutes.</p>
       </div>
 
-      <div style="background: var(--sage-subtle); padding: 40px 32px; border-radius: 6px;">
-        <h3 style="text-align:center;">Arrange a Farewell</h3>
-        <p style="text-align:center; color: var(--text-light);">Fill this in and we'll call you back — usually within 30 minutes.</p>
-        <form class="contact-form" style="margin-top: 24px;">
-          <div class="form-group">
-            <label for="name">Your Name *</label>
-            <input type="text" id="name" name="name" required>
-          </div>
-          <div class="form-group">
-            <label for="phone">Phone Number *</label>
-            <input type="tel" id="phone" name="phone" required>
-          </div>
-          <div class="form-group">
-            <label for="email">Email Address</label>
-            <input type="email" id="email" name="email">
-          </div>
-          <div class="form-group">
-            <label for="pet-type">Your Companion</label>
-            <select id="pet-type" name="pet-type">
-              <option value="">Select</option>
-              <option value="dog">Dog</option>
-              <option value="cat">Cat</option>
-              <option value="small-pet">Small Pet (rabbit, guinea pig, etc.)</option>
-              <option value="other">Other</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <label for="collection">Where would you like collection from?</label>
-            <select id="collection" name="collection">
-              <option value="">Select</option>
-              <option value="home">My Home</option>
-              <option value="vet">My Veterinary Practice</option>
-              <option value="bring">I'll Bring My Companion In</option>
-              <option value="not-sure">Not Sure Yet</option>
-            </select>
-          </div>
-          <div class="form-group">
-            <label for="message">Anything you'd like to tell us?</label>
-            <textarea id="message" name="message" placeholder="Your companion's name, what's happened, any preferences — whatever you feel comfortable sharing."></textarea>
-          </div>
-          <button type="submit" class="form-submit">Send &mdash; We'll Call You Back</button>
-        </form>
-      </div>
+      <form class="contact-form" id="contact-form" style="margin-top: 0;">
+        <div class="form-group">
+          <label for="name">Your Name *</label>
+          <input type="text" id="name" name="name" required placeholder="Full name">
+        </div>
+        <div class="form-group">
+          <label for="phone">Phone Number *</label>
+          <input type="tel" id="phone" name="phone" required placeholder="Best number to reach you">
+        </div>
+        <div class="form-group">
+          <label for="email">Email Address</label>
+          <input type="email" id="email" name="email" placeholder="Optional — for follow-up">
+        </div>
+        <div class="form-group">
+          <label for="pet-type">Your Companion *</label>
+          <select id="pet-type" name="pet-type" required>
+            <option value="">Select type</option>
+            <option value="dog-small">Dog — Small (under 10 kg)</option>
+            <option value="dog-medium">Dog — Medium (10–25 kg)</option>
+            <option value="dog-large">Dog — Large (25–45 kg)</option>
+            <option value="dog-xl">Dog — Extra Large (45+ kg)</option>
+            <option value="cat">Cat</option>
+            <option value="rabbit">Rabbit</option>
+            <option value="guinea-pig">Guinea Pig</option>
+            <option value="bird">Bird</option>
+            <option value="other">Other small pet</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="collection">Collection Preference</label>
+          <select id="collection" name="collection">
+            <option value="">Select</option>
+            <option value="home">From my home</option>
+            <option value="vet">From my veterinary practice</option>
+            <option value="bring">I'll bring my companion in</option>
+            <option value="not-sure">Not sure yet</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="message">Anything you'd like to tell us?</label>
+          <textarea id="message" name="message" placeholder="Your companion's name, what's happened, any preferences — whatever you feel comfortable sharing."></textarea>
+        </div>
+
+        <div class="consent-group">
+          <input type="checkbox" id="consent" name="consent" required>
+          <label for="consent">I consent to Newcastle Pet Cremation Services processing my personal data to connect me with a trusted local crematorium. I understand my data will be handled in accordance with the <a href="/pages/privacy.html" target="_blank">Privacy Policy</a>. *</label>
+        </div>
+
+        <button type="submit" class="form-submit" id="submit-btn">Send &mdash; We'll Call You Back</button>
+      </form>
     </div>
   </div>
 </section>
@@ -112,26 +138,26 @@
     <div class="services-grid">
       <div class="service-card">
         <div class="icon" style="font-size:1.8rem;">📞</div>
-        <h3>1. We Call You Back</h3>
-        <p>Usually within 30 minutes. We'll listen, answer your questions, and talk through the options — no pressure, no rush.</p>
+        <h3>1. A Crematorium Calls You</h3>
+        <p>We connect you with a trusted local crematorium. They'll call you back — usually within 30 minutes — to talk through the options. No pressure, no rush.</p>
       </div>
       <div class="service-card">
         <div class="icon" style="font-size:1.8rem;">🚗</div>
-        <h3>2. We Collect</h3>
-        <p>We arrange collection from your home, vet, or you bring your companion to us. Typically within 2 hours in Newcastle.</p>
+        <h3>2. They Arrange Collection</h3>
+        <p>Collection from your home, vet, or you can bring your companion in. Typically within 2 hours in Newcastle.</p>
       </div>
       <div class="service-card">
         <div class="icon" style="font-size:1.8rem;">🏠</div>
-        <h3>3. Ashes Returned</h3>
-        <p>For individual cremation, ashes are returned within 2–3 days in your choice of casket or scatter tube. Hand-delivered with care.</p>
+        <h3>3. Ashes Returned with Care</h3>
+        <p>For individual cremation, ashes are returned within 2–3 days in your choice of casket or scatter tube. Hand-delivered with dignity.</p>
       </div>
     </div>
   </div>
 </section>
 
 <section class="cta-banner">
-  <h2>Need to Talk Now?</h2>
-  <p>Call us on <strong>0191 000 0000</strong>. If it's outside office hours, leave a message and we'll call you back within 30 minutes. You don't have to go through this alone.</p>
+  <h2>Ready to Arrange a Dignified Farewell?</h2>
+  <p>Fill in the form above and a trusted local crematorium will call you back — usually within 30 minutes. You don't have to go through this alone.</p>
 </section>
 
 <footer>
@@ -176,6 +202,64 @@
     <p>&copy; 2026 Newcastle Pet Cremation Services. All rights reserved. Serving Newcastle upon Tyne and the North East with dignity and care.</p>
   </div>
 </footer>
+
+<script>
+document.getElementById('contact-form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+
+  const errorEl = document.getElementById('form-error');
+  const successEl = document.getElementById('form-success');
+  const formEl = document.getElementById('contact-form');
+  const btn = document.getElementById('submit-btn');
+
+  errorEl.classList.remove('visible');
+  successEl.classList.remove('visible');
+
+  if (!document.getElementById('consent').checked) {
+    errorEl.textContent = 'Please consent to our privacy policy before submitting.';
+    errorEl.classList.add('visible');
+    return;
+  }
+
+  btn.disabled = true;
+  btn.textContent = 'Sending…';
+
+  const data = {
+    name: document.getElementById('name').value.trim(),
+    phone: document.getElementById('phone').value.trim(),
+    email: document.getElementById('email').value.trim(),
+    pet_type: document.getElementById('pet-type').value,
+    collection: document.getElementById('collection').value,
+    message: document.getElementById('message').value.trim(),
+    consent: true
+  };
+
+  try {
+    const resp = await fetch('/api/contact', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+
+    const result = await resp.json();
+
+    if (resp.ok) {
+      formEl.style.display = 'none';
+      successEl.classList.add('visible');
+    } else {
+      errorEl.textContent = result.error || 'Something went wrong. Please try again.';
+      errorEl.classList.add('visible');
+      btn.disabled = false;
+      btn.textContent = 'Send — We\'ll Call You Back';
+    }
+  } catch (err) {
+    errorEl.textContent = 'Network error. Please check your connection and try again.';
+    errorEl.classList.add('visible');
+    btn.disabled = false;
+    btn.textContent = 'Send — We\'ll Call You Back';
+  }
+});
+</script>
 
 </body>
 </html>
