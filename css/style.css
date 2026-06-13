@@ -65,11 +65,11 @@ nav {
 }
 .nav-links a:hover { color: var(--sage-dark); }
 .nav-cta {
-  background: var(--sage-dark); color: var(--white); padding: 8px 18px;
+  background: var(--sage-dark); color: var(--white) !important; padding: 8px 18px;
   border-radius: 4px; font-family: -apple-system, 'Segoe UI', sans-serif;
   font-size: 0.9rem; text-decoration: none; transition: background 0.2s;
 }
-.nav-cta:hover { background: var(--sage); color: var(--white); }
+.nav-cta:hover { background: var(--sage); color: var(--white) !important; }
 
 /* ── Hero ── */
 .hero {
