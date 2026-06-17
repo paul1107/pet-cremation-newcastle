@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.petcremationnewcastle.co.uk"
+        }
+      ],
+      "destination": "https://petcremationnewcastle.co.uk/:1",
+      "permanent": true
+    }
+  ]
+}

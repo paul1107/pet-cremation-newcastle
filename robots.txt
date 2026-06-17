@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://petcremationnewcastle.co.uk/sitemap.xml
+
+# Block admin/utility paths
+Disallow: /api/
+
+# Crawl-delay: 10
