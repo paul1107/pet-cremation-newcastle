@@ -85,10 +85,22 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.petcremationnewcastle.co.uk/pages/pet-cremation-questions.html</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.petcremationnewcastle.co.uk/pages/privacy.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.petcremationnewcastle.co.uk/llms.txt</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 <url>
     <loc>https://www.petcremationnewcastle.co.uk/404.html</loc>

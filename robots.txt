@@ -1,5 +1,23 @@
 User-agent: *
 Allow: /
+
+# LLMs.txt — site information for AI crawlers (https://llmstxt.org/)
+# Allow all AI bots to read llms.txt for site understanding
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://www.petcremationnewcastle.co.uk/sitemap.xml
 
 # Block admin/utility paths
