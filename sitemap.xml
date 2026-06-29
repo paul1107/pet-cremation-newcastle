@@ -96,16 +96,4 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
-  <url>
-    <loc>https://www.petcremationnewcastle.co.uk/llms.txt</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-<url>
-    <loc>https://www.petcremationnewcastle.co.uk/404.html</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-  </url>
 </urlset>
