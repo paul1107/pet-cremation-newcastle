@@ -1,12 +1,12 @@
-     1|     1|     1|<?xml version="1.0" encoding="UTF-8"?>
-     2|     2|     2|<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-     3|     3|     3|  <url>
-     4|     4|     4|    <loc>https://www.petcremationnewcastle.co.uk/</loc>
-     5|     5|     5|    <lastmod>2026-07-14</lastmod>
-     6|     6|     6|    <changefreq>weekly</changefreq>
-     7|     7|     7|    <priority>1.0</priority>
-     8|     8|     8|  </url>
-     9|     9|     9|  <url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.petcremationnewcastle.co.uk/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     10|    10|    10|    <loc>https://www.petcremationnewcastle.co.uk/pages/services.html</loc>
     11|    11|    11|    <lastmod>2026-07-14</lastmod>
     12|    12|    12|    <changefreq>weekly</changefreq>
