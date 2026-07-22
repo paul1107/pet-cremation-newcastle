@@ -1,148 +1,147 @@
 # Competitor Tracker — Newcastle Pet Cremation
 
-Last verified: 15 Jul 2026
+Last verified: 22 Jul 2026
 Maintained by: BWB-SEO-Agent
 
-## Competitor Rankings (SERP for head terms, 15 Jul 2026)
+## Competitor Homepage Analysis (22 Jul 2026)
 
-### "pet cremation Newcastle"
-| # | Competitor | Domain | Notes |
-|---|-----------|--------|-------|
-| 1 | Scrappy's Pet Crematorium | scrappyspetcrematorium.co.uk | Dominant. Payment plans £12.50/mo. 2 schema blocks, NAP 2/5. |
-| 2 | PCS North East | pcsonline.org.uk | East Boldon. About page ranks here. |
-| 3 | Northumbria Pet Crematorium | northumbriapetcrematorium.co.uk | Price List page. Farewell room. Individual-only guarantee. NAP 0/5. |
-| 4 | Hearts To Heaven | heartstoheavenpetcrematorium.co.uk | Morpeth. http:// only. ~200 words, 1 H1, NO schema. **Still ranking despite this.** |
-| 5 | PCS North East (dup) | pcsonline.org.uk | Main landing page. |
-| 6 | Yell (Seaham Pet Crematorium) | yell.com | Directory listing, 5.0 rating (7 reviews). |
-| 7 | Newcastle and Hunter (AU) | newcastleandhunterpetcrematorium.com | NSW, Australia — irrelevant dilution. |
-| 8 | Furry Friend Farewells (AU) | furryfriendfarewells.com.au | NSW, Australia — irrelevant dilution. |
-| 9 | Animals at Home | animalsathome.co.uk | Northumberland West. |
+### Scrappy's Pet Crematorium (#1, dominant)
+- **Domain:** scrappyspetcrematorium.co.uk ✅
+- **Title:** "Pet Crematorium in Newcastle Upon Tyne - for Dogs, Cats and Small Pets"
+- **H1s:** 2 ("Pet Crematorium" + "NEWCASTLE UPON TYNE")
+- **H2s:** 4 ("Pet Cremation Plans", "from £12.50 per month", "Urns, Caskets and Keepsakes", + slider)
+- **Content:** ~250-300 words prose. Personal story (Scrappy the dog). Services overview + slider.
+- **Schema:** 2 blocks (ProfessionalService, NAP 2/5)
+- **Phone:** 07512 308393 (visible), enquiries@scrappyspetcrematorium.co.uk
+- **USPs:** Payment plans £12.50/mo, species-specific urns (dog/cat/small pet), caskets, keepsakes
+- **Trust signals:** Facebook, Instagram listed. Personal origin story.
+- **Contact:** Form + phone + email all present
 
-### "dog cremation Newcastle"
-| # | Competitor | Domain | Notes |
-|---|-----------|--------|-------|
-| 1 | Scrappy's | scrappyspetcrematorium.co.uk | Title: "for Dogs, Cats..." |
-| 2 | PCS North East | pcsonline.org.uk | Tel: 0191 519 3452. |
-| 3 | Hearts To Heaven | heartstoheavenpetcrematorium.co.uk | http://, no schema. |
-| 4 | Cloud9 Vets | cloud9vets.co.uk | At-home euthanasia + cremation. Chapel of rest. |
-| 5 | Newcastle and Hunter (AU) | newcastleandhunterpetcrematorium.com | NSW Australia — irrelevant dilution. |
-| 6 | Northumbria | northumbriapetcrematorium.co.uk | Price List page. |
-| 7 | Yell (Seaham) | yell.com | Directory listing, 5.0 rating. |
-| 8 | Dignity Pet Crem | dignitypetcrem.co.uk | **Hampshire-based** — ranks here despite being 300+ miles away. Tiered pricing by species. |
-| 9 | The Pet Crematorium Durham | thepetcrematoria.co.uk | Durham — now appearing for dog queries. |
+### PCS North East (#2)
+- **Domain:** pcsonline.org.uk ✅
+- **Schema:** ProfessionalService, NAP score unknown
+- **USPs:** Farewell Room, award-winning ("Pet Funeral Provider of the Year 2025 Finalist"), VetPartners-owned
+- **Phone:** 0191 519 3452
+- **Content depth:** Blog content, FAQs page, strong About page
 
-### "cat cremation Newcastle"
-| # | Competitor | Domain | Notes |
-|---|-----------|--------|-------|
-| 1 | Scrappy's | scrappyspetcrematorium.co.uk | |
-| 2 | PCS North East | pcsonline.org.uk | |
-| 3 | Hearts To Heaven | heartstoheavenpetcrematorium.co.uk | http://, no schema. |
-| 4 | Northumbria | northumbriapetcrematorium.co.uk | Price List page. |
-| 5 | Furry Friend Farewells (AU) | furryfriendfarewells.com.au | NSW Australia — irrelevant dilution. |
-| 6 | Yell (Seaham) | yell.com | Directory listing. |
-| 7 | Newcastle and Hunter (AU) | newcastleandhunterpetcrematorium.com | NSW Australia — irrelevant dilution. |
-| 8 | Forget Me Not | forgetmenotpetcrem.co.uk | Newton Aycliffe. Expanding into cat queries. |
-| 9 | Animals at Home | animalsathome.co.uk | Northumberland West. |
+### Northumbria Pet Crematorium (#3-4) 🔴 HOMEPAGE 404
+- **Domain:** northumbriapetcrematorium.co.uk
+- **🔴 Homepage is 404** — root, /index.html, /home.html all return 404 as of 22 Jul 2026
+- **Only working page:** /price-list/ (this is what ranks #3-4 for all head terms)
+- **Title:** "Price List – Northumbria Pet Crematorium"
+- **H3s on price-list:** "How much will my pet's cremation cost?" + "Dogs" + "Birds" + "Other Pets"
+- **Schema:** NAP 0/5 (WebPage, SiteNavigationElement, CreativeWork, Table — NO entity type)
+- **Phone:** 07393 481 561 (on SERP snippet)
+- **Status:** Single-page site. Extremely fragile — if the price-list page ever drops, they vanish from SERPs.
 
-### "pet cremation Newcastle upon Tyne"
-| # | Competitor | Domain | Notes |
-|---|-----------|--------|-------|
-| 1 | Scrappy's | scrappyspetcrematorium.co.uk | |
-| 2 | PCS North East | pcsonline.org.uk | |
-| 3 | Northumbria | northumbriapetcrematorium.co.uk | Price List page. |
-| 4 | Hearts To Heaven | heartstoheavenpetcrematorium.co.uk | http://, no schema. **AI Overview cited.** |
-| 5 | Animals at Home | animalsathome.co.uk | Northumberland West. |
-| 6 | Yell (Seaham) | yell.com | Directory listing. |
-| 7 | Scrappy's Price List | scrappyspetcrematorium.co.uk | Hard prices: £150-£310+. |
-| 8 | PCS (dup) | pcsonline.org.uk | About page. |
-| 9 | wheree.com (Scrappy's reviews) | scrappy-s-pet-crematorium.wheree.com | Review aggregator — not a competitor. |
+### Hearts To Heaven (#3-4)
+- **Domain:** heartstoheavenpetcrematorium.co.uk ✅
+- **🔧 HTTPS now works!** Previously http:// only. Root redirects via meta-refresh to /home.html.
+- **Title:** "Home Page - Hearts To Heaven Pets Crematorium"
+- **H1:** 1 ("Hearts To Heaven")
+- **Content:** ~180 words prose. Personal tone from "Trevor Dixon." Link to Cremations page, link to Memoriam page.
+- **Schema:** 0 blocks, NAP 0/5
+- **Phone:** 07359 076 343
+- **© 2022** — still stale
+- **Mobirise-built**, slider ("Previous Next")
+- **Still thin content + zero schema — but HTTPS upgrade is new.**
 
-**⚡ AI Overview active**: cites Scrappy's (Benton, NE12 9SZ, £150-£270+), PCS (East Boldon, Farewell Room), Resting Paws (still temp closed!), Hearts To Heaven (Morpeth). **We are NOT cited.**
+### Forever Paws (#9)
+- **Domain:** foreverpaws.uk ✅
+- **Title:** "Home | Forever Paws Pet Cremation North East & Collection Service North East"
+- **H1s:** 2 (long prose H1 + "Arrange a Collection & Cremation")
+- **H2s:** 4 ("Until we meet again at the Rainbow Bridge...", "Why Choose Forever Paws", "Kind Words from Our Families", "Areas Covered")
+- **Content:** 724 words
+- **Schema:** 2 blocks (LocalBusiness, NAP 1/5)
+- **Phone:** 07838 632 684
+- **USPs:** Defra approved, 24hr collection, testimonials on homepage
+- **No hard prices** on homepage
 
-### Our position (15 Jul 2026)
+## SERP Rankings (22 Jul 2026)
 
-**🔴 0/4 head terms in top 9 — REGRESSION from 11 Jul.**
+### Primary Head Terms
+| # | pet cremation Newcastle | dog cremation Newcastle | cat cremation Newcastle | pet cremation Newcastle upon Tyne |
+|---|------------------------|------------------------|------------------------|----------------------------------|
+| 1 | Scrappy's | Scrappy's | Scrappy's | Scrappy's ⚡ |
+| 2 | PCS | PCS | PCS | PCS ⚡ |
+| 3 | Northumbria (price-list) | H2H | H2H | Northumbria (price-list) |
+| 4 | H2H | Cloud9 Vets | Northumbria (price-list) | H2H |
+| 5 | PCS (dup) | Furry Friend (AU) | Furry Friend (AU) | Animals at Home |
+| 6 | Animals at Home | Newcastle&Hunter (AU) | Yell (Seaham) | Yell (Seaham) |
+| 7 | Cloud9 Vets | Yell (Seaham) | PetsFarewell (NI) | Scrappy's Price List |
+| 8 | Yell (Seaham) | Northumbria (price-list) | Newcastle&Hunter (AU) | Forget Me Not |
+| 9 | Forever Paws | PetsFarewell (NI) | Cloud9 Vets | PCS (dup) |
+| 10 | Dignity (Hampshire) | — | — | — |
 
-- "cat cremation Newcastle" — **was #7 on 11 Jul, now DROPPED OUT entirely**
-- Site still only 2 pages indexed (homepage + pricing, day 15)
-- 21 pages on site, 0 ranking in any of the 4 head TERMS SERP check
-- Site appeared at #4 in a generic "new pet cremation Newcastle 2026" web_search — confirms Google CAN see us
+**Our position: N/R across all 4 primary terms.**
 
-## AI Overview Status (15 Jul 2026)
+### Body Terms
+| # | pet cremation costs Newcastle | individual pet cremation Newcastle | pet memorial services Newcastle | pet crematorium North East |
+|---|------------------------------|-----------------------------------|--------------------------------|---------------------------|
+| 1 | **ZERO RESULTS** | PCS | **ZERO RESULTS** | PCS |
+| 2 | — | Scrappy's | — | Durham |
+| 3 | — | Northumbria (price-list) | — | Forget Me Not |
+| 4 | — | Animals at Home | — | Heavenly Pets |
+| 5 | — | PCS (dup) | — | Scrappy's |
+| 6 | — | Sleepy Hollow | — | PCS FAQs |
+| 7 | — | PetsFarewell (NI) | — | VetPartners |
+| 8 | — | Yell (Seaham) | — | H2H |
+| 9 | — | Forget Me Not | — | PCS Facebook |
+| 10 | — | H2H | — | Yell |
 
-### Active AI Overviews (1 query detected in this pulse)
+**Our position: N/R across all 4 body terms.**
 
-**"pet cremation Newcastle upon Tyne"** — AI Overview active, cites 4 competitors:
-1. Scrappy's — Benton (NE12 9SZ), individual cremations, £150-£270+
-2. PCS — East Boldon, Farewell Room, home collection
-3. **Resting Paws** — Wheelbirks Estate, individual only, **STILL TEMPORARILY CLOSED (3+ weeks!)**
-4. Hearts To Heaven — Morpeth
-**We are NOT cited.**
+### AI Overview Status
+- **"pet cremation Newcastle upon Tyne"** — AI Overview active. Cites: Scrappy's (Benton/North Shields, £150-£180+, individual plans), PCS (East Boldon, Farewell Room), Forever Paws (24hr collection, individual + companion cremation). **We are NOT cited.**
+- All other queries: No AI Overview detected in this pulse.
 
-(Other queries did not trigger AI Overview in this pulse; 11 Jul data below remains relevant.)
+## Our Site Progress (22 Jul 2026)
+- **site: indexed: 9 pages** — up from 8 (21 Jul) → 6 (21 Jul) → 0 (20 Jul)
+- Indexed pages: homepage, pricing, process, dog-cremation, cat-cremation, pet-cremation-questions, 3 blog posts (memorials, individual, communal-vs-individual)
+- **2 blog posts targeting zero-results keywords are now indexed** (memorial services + individual cremation)
+- 0/8 keywords in top 10 organic results
+- 0/4 AI Overviews cite us
 
-### AI Overview Historical (11 Jul 2026, for queries not re-checked)
-
-**"pet cremation costs Newcastle"** — AI Overview with detailed price ranges:
-- Small pets: £75-£140, Cats/small dogs: £130-£200, Medium-large dogs: £160-£275, Giant breeds: £270-£370
-- Collections: £30-£50 extra. Witnessed service: £60-£90. Urns: £45-£120+.
-- Cites Northumbria, PCS, Scrappy's. **We are NOT cited.**
-
-**"pet cremation process Newcastle"** — AI Overview active (since 11 Jul):
-- Step-by-step: Collection, Identification, Cremation (800-1000°C, 1-2 hrs), Cremulation, Return (3-7 days).
-- Cites PCS. **We are NOT cited.**
-
-**"pet memorial services Newcastle"** — AI Overview active:
-- Cites Scrappy's (Farewell Room), PCS (Farewell Room + Book of Remembrance), Forever Paws (24hr collection), Hearts To Heaven (Morpeth).
-- **We are NOT cited.**
-
-**Summary: 0/4 AI Overviews cite us.** Entity authority (GBP + reviews) remains the #1 blocker.
-
-## All Verified Competitors (15 Jul 2026)
+## All Verified Competitors (22 Jul 2026)
 
 | # | Name | Domain | Status | Notes |
 |---|------|--------|--------|-------|
-| 1 | Scrappy's | scrappyspetcrematorium.co.uk | Active | Dominant. Payment plans £12.50/mo. ProfessionalService schema (2 blocks, NAP 2/5). Trustpilot 30 reviews. FB 1700+ likes. |
+| 1 | Scrappy's | scrappyspetcrematorium.co.uk | Active | Dominant. Payment plans £12.50/mo. ProfessionalService schema (2 blocks, NAP 2/5). Personal story. Species-specific urns. |
 | 2 | PCS North East | pcsonline.org.uk | Active | East Boldon. Blog content. Award-winning. Farewell Room. VetPartners-owned. |
-| 3 | Hearts To Heaven | heartstoheavenpetcrematorium.co.uk | Active (http://) | ~200 words, 1 H1, zero schema blocks, NAP 0/5. Mobirise-built. ©2022 — stale. **Still ranking #3-4 despite all weaknesses.** |
-| 4 | Northumbria | northumbriapetcrematorium.co.uk | Active | Price list ranks. Farewell room. Individual-only. NAP 0/5 (no entity schema). Mother-son business, Birtley/Hexham. Trustpilot reviews. |
-| 5 | Forever Paws | foreverpaws.uk | Active | Defra approved. 24/7 phone. 24hr collection. Testimonials on homepage ("Kind Words from Our Families"). AI Overview cited. NAP 1/5 (LocalBusiness schema). |
-| 6 | Resting Paws | resting-paws.co.uk | **TEMPORARILY CLOSED** | Wheelbirks Estate. Individual only. **Still cited in AI Overviews — 3+ weeks after closure.** |
-| 7 | Forget Me Not | forgetmenotpetcrem.co.uk | Active | Newton Aycliffe. Expanding — now appearing for cat + dog + costs queries. |
-| 8 | Cloud9 Vets | cloud9vets.co.uk | Active | At-home euthanasia + cremation. Chapel of rest. #4 for "dog cremation." |
-| 9 | Animals at Home | animalsathome.co.uk | Active | Northumberland West. |
-| 10 | Sleepy Hollow | sleepyhollowpetcrematorium.co.uk | Active | 24/7, "within hours." |
-| 11 | Dignity Pet Crem | dignitypetcrem.co.uk | Active | **Hampshire-based** but ranks for "dog cremation Newcastle" (#8). Tiered pricing by species. |
-| 12 | Green Pastures | greenpastures-petcrematorium.co.uk | Active | Est. 1987. Ranks #5 for "communal vs individual pet cremation" (blog post). |
-| 13 | Seaham Pet Crematorium | via yell.com | Active | 5.0 (7 reviews) on Yell. |
-| 14 | Heavenly Pets | heavenlypets.org.uk | Active | Teesside. |
-| 15 | VetPartners | vetpartners.co.uk | Active | Corporate chain — PCS parent company. |
-| 16 | The Pet Crematorium Durham 🆕 | thepetcrematoria.co.uk | Active | Durham. Now appearing for "dog cremation Newcastle." |
+| 3 | Hearts To Heaven | heartstoheavenpetcrematorium.co.uk | Active | **HTTPS now works.** ~180 words, 1 H1, zero schema (NAP 0/5). Mobirise-built. ©2022 stale. Still ranks #3-4. |
+| 4 | Northumbria | northumbriapetcrematorium.co.uk | Active (1 page) | 🔴 **Homepage 404.** Only /price-list/ works. NAP 0/5. Single-page site. Extremely fragile. |
+| 5 | Forever Paws | foreverpaws.uk | Active | Defra approved. 24hr collection. 724 words. Testimonials. LocalBusiness schema (NAP 1/5). AI Overview cited. |
+| 6 | Resting Paws | resting-paws.co.uk | **TEMPORARILY CLOSED** | Wheelbirks Estate. Individual only. 4+ weeks temp closed. |
+| 7 | Cloud9 Vets | cloud9vets.co.uk | Active | At-home euthanasia + cremation. Chapel of rest. #4 for "dog cremation." |
+| 8 | Animals at Home | animalsathome.co.uk | Active | Northumberland West. #6 for "pet cremation Newcastle." |
+| 9 | Sleepy Hollow | sleepyhollowpetcrematorium.co.uk | Active | 24/7, "within hours." #6 for "individual pet cremation Newcastle." |
+| 10 | Forget Me Not | forgetmenotpetcrem.co.uk | Active | Newton Aycliffe. Expanding. |
+| 11 | The Pet Crematorium Durham | thepetcrematoria.co.uk | Active | #2 for "pet crematorium North East." |
+| 12 | Heavenly Pets | heavenlypets.org.uk | Active | Teesside. #4 for "pet crematorium North East." |
+| 13 | Dignity Pet Crem | dignitypetcrem.co.uk | Active | **Hampshire-based.** Ranks #10 for "pet cremation Newcastle." |
+| 14 | VetPartners | vetpartners.co.uk | Active | PCS parent company. |
+| 15 | Seaham Pet Crematorium | via yell.com | Active | 5.0 (7 reviews). |
 
-## Content Gap Opportunities (updated 15 Jul 2026)
+## Content Gap Opportunities (updated 22 Jul 2026)
 
 ### HIGH PRIORITY
+1. **GBP + review acquisition** — #1 blocker. All AI-cited competitors have GBP/reviews.
+2. **Testimonials on homepage** — Forever Paws, Scrappy's both have social proof. We have zero.
+3. **Defra approval mention** — Forever Paws prominently claims this.
+4. **Payment flexibility content** — Scrappy's £12.50/mo plans. Our pricing page has no payment options.
+5. **Species-specific sections on homepage** — Scrappy's has dog/cat/small pet urns listed separately.
 
-1. **GBP + review acquisition** — AI Overviews cite competitors with reviews/GBP. We have neither. This is the #1 blocker for AI visibility. 3 competitors (Scrappy's, Forever Paws, Hearts To Heaven) now cited in AI Overviews.
-2. **Testimonials on homepage** — Forever Paws has "Kind Words from Our Families" with 3 named testimonials. Scrappy's has Trustpilot. We have none.
-3. **Blog/news content** — PCS has blog posts, Green Pastures ranks #5 for long-tail with a single blog post. We have 1 blog post — need 4-5 more.
-4. **"What to do if my dog dies at home"** — High-volume long-tail. Our Newcastle area page now has a 4-step guide (added 15 Jul). Monitor ranking.
-5. **Defra approval mention** — Forever Paws prominently claims Defra approval. Trust signal.
-6. **Farewell room / chapel of rest** — Northumbria and PCS mention this. We could add a "private farewell space" equivalent.
-
-### COMPETITOR FRAGILITY (actionable once we have authority)
-- **Hearts To Heaven**: http:// only, ~200 words, zero schema, NAP 0/5, stale (©2022). **Easiest overtake target — but still outranking us.**
-- **Northumbria**: No entity schema, NAP 0/5. Price list ranks by accident.
-- **Resting Paws**: TEMPORARILY CLOSED (3+ weeks). Window narrowing — may reopen. Still AI Overview cited.
+### COMPETITOR FRAGILITY (actionable with authority)
+- **Northumbria** 🔴 — Homepage 404! Single-page site. If their price-list ever drops, they're gone.
+- **Hearts To Heaven** — ~180 words, zero schema, NAP 0/5, ©2022 stale. HTTPS upgrade won't fix this.
+- **Resting Paws** — 4+ weeks temp closed. Window narrowing.
 
 ## Irrelevant (NOT competitors)
 - Newcastle and Hunter Pet Crematorium (.com.au) — NSW, Australia
 - Furry Friend Farewells (.com.au) — NSW, Australia
-- Beyond the Rainbow — Philosophy blog, NOT a pet cremation service
-- foreverpawsllc.com / foreverpaws.online / foreverpaws.com.au — US/AU, NOT UK
-- Barnsley Council (barnsley.gov.uk) — Cannon Hall, NOT Newcastle
-- Newcastle City Council (new.newcastle.gov.uk) — Human bereavement, NOT pet
-- Dignity Pet Crem (dignitypetcrem.co.uk) — Hampshire-based, NOT Newcastle
+- PetsFarewell (.com) — Northern Ireland
+- Dignity Pet Crem (dignitypetcrem.co.uk) — Hampshire-based
+- Beyond the Rainbow — Philosophy blog
 
 ## Domain Corrections Made
 - `hearts-to-heaven.co.uk` → `heartstoheavenpetcrematorium.co.uk` (corrected 15 Jun 2026)
