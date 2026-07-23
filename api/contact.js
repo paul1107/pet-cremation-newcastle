@@ -22,7 +22,7 @@ export default async function handler(req, res) {
     ['Message', message || 'None']
   ];
 
-  const text = '🐾 *New Lead — Pet Cremation Newcastle*\n\n' +
+  const text = '🐾 *New Enquiry — Newcastle Pet Cremation referral service*\n\n' +
     fields.map(([k, v]) => `*${k}:* ${v}`).join('\n') +
     `\n\n\_${new Date().toLocaleString('en-GB', { timeZone: 'Europe/London' })}\_`;
 
@@ -49,7 +49,7 @@ export default async function handler(req, res) {
 
     return res.status(200).json({
       success: true,
-      message: 'Thank you. We will call you back shortly.'
+      message: 'Thank you. We have received your enquiry and will review provider availability.'
     });
   } catch (error) {
     console.error('Form handler error:', error);

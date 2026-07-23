@@ -234,3 +234,17 @@ footer {
   section { padding: 48px 16px; }
   .hero { padding: 60px 16px 48px; }
 }
+
+
+/* Transparent referral-service disclosure */
+.referral-disclosure {
+  background: #fff7e6;
+  color: #3f3526;
+  border-bottom: 1px solid #dfc891;
+  padding: 12px 20px;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.referral-disclosure strong { color: #2f5948; }
